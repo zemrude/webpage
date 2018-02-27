@@ -10,12 +10,12 @@
 
     <p>You can access my complete publication list inSPIRE <a href="http://inspirehep.net/author/profile/Juan.Antonio.Aguilar.Sanchez.1" target="_blanck"> here </a>
 
-<!--
+
 <p> The following is a list of publications with high online attention from <a href="www.altmetric.com">altmetric.com </a> </p>
 
 	  <iframe src="http://w3.iihe.ac.be/~aguilar/test-json.py"
 	  style="border:none; width: 100%;margin-left: 0px;height: 800px;
-	  overflow: hidden;" scrolling="no" seamless="seamless" id="iframe" onload='javascript:resizeIframe(this);' /></iframe> -->
+	  overflow: hidden;" scrolling="no" seamless="seamless" id="iframe" onload='javascript:resizeIframe(this);' /></iframe> 
 
 	</div>
  </div>

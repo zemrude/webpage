@@ -1,6 +1,6 @@
-<?php include("header")?>
+<?php include("header.html")?>
 
-  <div class="row">
+<div class="row">
 
 
 <h2 id="course-description">Course Description</h2>
@@ -203,4 +203,4 @@ as the programing language. The idea is also to familiarize the student with wha
 
 </div>
 
-<?php include("footer")?>
+<?php include("footer.html")?>

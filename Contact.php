@@ -1,6 +1,6 @@
 <?php include("header.html")?>
 
-  <div class="row">
+  <div class="row" style="width=100%">
     <div class="small-12 small-centered columns">
 
       <ul class="vcard">

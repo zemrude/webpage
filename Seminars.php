@@ -5,7 +5,7 @@
 
 <h4>Recent Seminars</h4>
 
-<\div>
-<\div>
+</div>
+</div>
 
 <?php include("footer.html")?>

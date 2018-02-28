@@ -1,73 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>J. A. Aguilar | Welcome</title>
-    <link rel="stylesheet" href="css/foundation.css" />
-    <link rel="stylesheet" href="css/foundation-icons.css" />
-    <link rel="stylesheet" href="css/font-awesome.css" />
-    <link rel="stylesheet" href="css/academicons.css" />
-    <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
-    <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
-    <script src="js/vendor/modernizr.js"></script>
-
-  
-    <!-- Owl Carousel Assets -->
-    <link href="owl-carousel/owl.carousel.css" rel="stylesheet">
-    <link href="owl-carousel/owl.theme.css" rel="stylesheet">
-    <link href="assets/js/google-code-prettify/prettify.css" rel="stylesheet">
-  
+<?php include("header.html");?>
    
-  </head>
-  <body>
-
-    <!-- Top navigator -->
-    <div class="contain-to-grid">
-      <nav class="top-bar" data-topbar role="navigation" >
-        <ul class="title-area" >
-          <li class="name">
-            <h1><a href="index.html">Juan A. Aguilar</a></h1>
-          </li>
-          <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-          <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-        </ul>
-
-        <section class="top-bar-section" >
-        <!-- Right Nav Section -->
-         <ul class="right">
-            <li class="divider"></li>
-            <li><a href="Pub.html">Publications</a></li>
-            <li class="divider"></li>
-            <li><a href="#">Seminars</a></li>
-            <li class="divider"></li>
-            <li class="has-dropdown">
-              <a href="">Teaching</a>
-                <ul class="dropdown">
-                  <li class="active"><a href="PHYS-467.html">AstroParticles PHYS-467</a></li>
-                  <li class="active"><a href="PHYS-F-210.html">Laboratoire PHYS-F-210</a></li>
-                </ul>
-            </li>
-            <li class="divider"></li>
-            <li><a href="People.html">People</a></li>
-            <li class="divider"></li>
-            <li><a href="Contact.html">Contact</a></li>
-          </ul>
-          <ul class="social-icons">
-            <a href="https://www.researchgate.net/profile/Juan_Antonio_Aguilar_Sanchez"><i class="ai ai-researchgate fa-3x"></i></a>
-            <a href="http://orcid.org/0000-0003-2252-9514"><i class="ai ai-orcid fa-3x"></i></a>
-            <a href="http://arxiv.org/find/astro-ph/1/au:+Aguilar_J/0/1/0/all/0/1"><i class="ai ai-arxiv fa-3x"></i></a>
-          </ul>
-        </section>
-      </nav>
-    </div>
-
-<hr />
-   
-    <div class="row">
-     <div class="small-10 large-10 columns">
-
-    
+<div class="expanded row">
+ 
+<div class="small-12 large-12 columns">
 
      <div class="profile-card">
         <div class="small-12 large-2 columns">
@@ -93,13 +28,13 @@
       </div>
       <div class="profile-card">
         <div class="small-12 large-2 columns">
-           <a><img src="img/elisa.jpg" alt="profile image"></a> 
+           <a><img src="" alt="profile image"></a> 
         </div>
         <div class="small-12 large-10 columns">
-           <h4>Elisa Pinat <span>PhD Student</span></h4>
-             <p><i class="fa fa-building"></i><span> Office 0G-106C</span></p>
-             <p><i class="fa fa-phone"></i><span> +32 2 629 35 73</span></p>
-             <p><i class="fa fa-envelope"></i><span> epinat@ulb.ac.be</span></p>
+           <h4>Giovanni Renzi <span>PhD Student</span></h4>
+             <p><i class="fa fa-building"></i><span> Office 0G-104</span></p>
+             <p><i class="fa fa-phone"></i><span> +32 2 629 32 22</span></p>
+             <p><i class="fa fa-envelope"></i><span> grenzi@icecube.wisc.edu</span></p>
         </div>
       </div>
       <div class="profile-card">
@@ -113,45 +48,24 @@
              <p><i class="fa fa-envelope"></i><span> christoph@raab.io</span></p>
         </div>
       </div>
+      <div class="profile-card">
+        <div class="small-12 large-2 columns">
+           <a><img src="" alt="profile image"></a> 
+        </div>
+        <div class="small-12 large-10 columns">
+           <h4>Nadège Iovine <span>PhD Student</span></h4>
+             <p><i class="fa fa-building"></i><span> Office 0G-111</span></p>
+             <p><i class="fa fa-phone"></i><span> +32 2 629 32 20</span></p>
+             <p><i class="fa fa-envelope"></i><span>nadege.iovine@ulb.ac.be</span></p>
+        </div>
+      </div>
 
                  
 </div>  
     </div>
 
-   <!-- Footer -->  
-   <footer class="footer">
-     <div class="row">
-       <div class="small-12 medium-6 columns">
-               
-          <p class="footer-links">
-            <a href="Pub.html">Publications</a>
-            <a href="Seminars.html">Seminars</a>
-            <a href="PHYS-467.html">PHYS-467</a>
-            <a href="PHYS-F-210.html">PHYS-F-210</a>
-            <a href="People.html">People</a>
-          </p>
-          <p class="copywrite"> This page was created using <b><a href="http://foundation.zurb.com/">ZURB Foundation</a></b> </p> 
-       </div>
 
-        <div class="small-12 medium-6 columns">
-          <ul class="contact">
-            <li><p><i class="fa fa-map-marker"></i>Boulevard du Triomphe, CP 230, B-1050 Bruxelles</p></li>
-            <li><p><i class="fa fa-building"></i>Building G, Office 0G-126, VUB Campus</p></li>
-            <li><p><i class="fa fa-phone"></i>+32 2 629 3205</p></li>
-            <li><p><i class="fa fa-envelope"></i>juaguila@ulb.ac.be</p></li>
-         </ul>
-        </div>
-      </div>
-          </footer>
-
-    <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-    <script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-    <script type="text/javascript" src="slick/slick.min.js"></script>
-    <script src="js/vendor/jquery.js"></script>
-    <script src="js/foundation.min.js"></script>
-    
-    
-    
+<?php include("footer.html");?>
     <script src="owl-carousel/owl.carousel.js"></script>
 
 

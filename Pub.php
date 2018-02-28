@@ -1,9 +1,9 @@
 <?php include("header.html")?>
 
 
-<div class="row">
+  <div class="row">
 
-<div class="small-12 large-12 columns" style="margin-top: 50px;">
+<div class="small-12 large-12 columns">
 
 <h4> Recent Publications </h4>
 <iframe src="http://iihe.ac.be/~aguilar/recent_publications.py" style="border:none; width: 100%;margin-left: 0px; overflow: hidden;" scrolling="no" seamless="seamless" id="iframe" onload='javascript:resizeIframe(this);' />

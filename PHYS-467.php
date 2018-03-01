@@ -1,62 +1,75 @@
 <?php include("header.html")?>
 
-<div class="row">
-
+<div class="expanded row">
 
 <h2 id="course-description">Course Description</h2>
+
 <p>This course is a survey of the emerging field of high-energy particle astrophysics and is primarily intended for students pursuing a master’s degree in physics.  Phenomena studied in this field are among the most energetic in Universe and include the theory and observation of particles accelerated in supernovae remnants, super-massive black holes, active galaxies, and gamma ray bursts. </p>
 <p>This course will feature an emphasis on problem solving using numerical techniques. Although certainly is not a requirement to understand the physical processed involved in astroparticle phenomena, it is benefitial to resolve numerically some of the proposed problems in order to better assimilate the concepts discussed during this course. The Python programming language is used as a tool for constructing these numerical solutions.  There exist complete mathematical libraries (NumPy/SciPy) for Python as well as powerful interactive tools and graphical visualization frameworks which make it possible to easily construct problem solvers in a matter of minutes along with graphical output.
 as the programing language. The idea is also to familiarize the student with what has become one of the most popular analysis tools in the high energy physics as well as astronomy communities.
-<p>The course nominally includes 24 hours of lecture and 24 hours of exercises.  These hours will be divided (approximately) among 7 lectures, 7 exercise sessions. In addition, you will be asked to select a topic to pursue for individual in-depth analysis.  This could involve selecting a paper for review, critique, and presentation or could be modeling an astrophysical phenomenon in code followed by a presentation of the work.  The possibilities are open, however you must work with me to develop a topic.  Presentations and work must be completed by the end of the quadrimester.</p>
+
+<h2> Table of Content </h2>
+
+<p>The course nominally includes 14 hours of lecture and 14 hours of exercises.  These hours will be divided (approximately) among 7 lectures, 7 exercise sessions. </p>
+<p>Material of the course can be found below as weill as in my <a href="https://github.com/zemrude/PHYS-F-467">github</a> repo</p>
 
 <p>The lectures will are divide by topics:</p>
 
 <dl class="accordion" data-accordion>
   <!--PA1 -->
   <dd class="accordion-navigation">
-    <a href="#panel1b"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h5>PA1: Introduction</h5></a>
-      <div id="panel1b" class="content"> Introduction to Cosmic Rays with some historical remarks as well as to neutrino astrophysics, gamma-rays and dark matter.
-        <ul class="inline-list">
+    <a href="#panel1b"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h5>PA1: Introduction  </h5><span class="alert label">new</span></a>
+      <div id="panel1b" class="content"> 
+<ul class ="disc">
+<li>Introduction to Cosmic Rays.</li>
+<li>Historical remarks </li>
+</ul>
+        <ul class="no-bullet">
           <li><b>Material:</b></li>
-
-<!--          <li><a href="https://www.dropbox.com/s/b7weyain11gvbpa/PA1.key?dl=0">Slides (keynote)</a></li>
-          <li><a href="https://www.dropbox.com/s/vfahzgkut10q51d/PA1.pdf?dl=0">Slides (pdf)</a></li> -->
+<ul class="no-bullet">
+          <li>Slides [<a href="https://www.dropbox.com/s/7v9ijh9xc061jh7/slides-PA1.pdf?dl=0">PDF</a>]</li>
         </ul>
+</ul>
       </div>
   </dd>
 
   <!--PA2 -->
   <dd class="accordion-navigation">
-    <a href="#panel2b"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h5>PA2: The computation framework</h5></a>
+    <a href="#panel2b"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h5>PA2: The computation framework  </h5><span class="alert label">new</span></a>
     <div id="panel2b" class="content">
-      <ul>
+      <ul class="disc">
 				<li>Natural units</li>
 				<li>Coordinates and time</li>
 				<li>Special Relativity and relativistic kinematics</li>
 				<li>Cosmology</li>
     	</ul>
-<!--
-      <ul class="inline-list"> <li><b>Material:</b></li>
-        <li><a href="PHYS-467/PA2.slides.html" target="_blank">Slides (html)</a></li>
-        <li><a href="PHYS-467/PA2.html" target="_blank">Notes (html)</a></li>
-        <li><a href="PHYS-467/PA2.pdf" target="_blank">Notes (pdf) </a></li>
-        <li><a href="https://www.dropbox.com/s/gwpmi0eyhxrkyri/PA2.ipynb?dl=0">Notes (iPython notebook)</a></li>
+     
+      <ul class="no-bullet"> 
+     <li><b>Material:</b></li>
+     <ul class ="no-bullet">
+   <li>Slides [<a href="https://www.dropbox.com/s/ar3aevy4szavrgf/slides-PA2.pdf?dl=0" target="_blank">PDF</a>]</li>
+     <li>Notes [<a href="https://www.dropbox.com/s/nx5o9zrx2hm8se0/PA2.pdf?dl=0" target="_blank">PDF</a>] [<a href="https://github.com/zemrude/PHYS-F-467/blob/master/PA2.ipynb">IPYNB</a>] [<a href="http://nbviewer.jupyter.org/github/zemrude/PHYS-F-467/blob/master/PA2.ipynb">HTML</a>]</li>
       </ul>
--->
+</ul>
     </div>
   </dd>
 
   <!--Exercises 1 -->
   <dd class="accordion-navigation">
-    <a href="#panel1a"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h6>Exercises 1</h6></a>
+    <a href="#panel1a"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h7>Exercises 1  </h7><span class="alert label">new</span></a>
     <div id="panel1a" class="content">
+
+      <ul class="no-bullet">   
+     <li><b>Material:</b></li> 
+<ul class="no-bullet">
+<li>Exercises [<a href="https://www.dropbox.com/s/btrvy8sizshyusl/Exercises1.pdf?dl=0" target="_blank">PDF</a>]</li>
+
 <!--
-      <ul class="inline-list">   
-     <li><b>Material:</b></li> <li><a href="PHYS-467/Exercises1.pdf" target="_blank">Exercises (pdf)</a></li>
         <li><a href="PHYS-467/Exercises1_solutions.pdf" target="_blank">Solutions (pdf)</a><span class="[success alert secondary] [round radius] label"><i class="fa fa-key"></i>Password required</span></li>
         <li><a href="https://www.dropbox.com/s/aqzxr0jfd3z3qf8/Exercises1.ipynb?dl=0" target="_blank">Solutions (iPython notebook)</a><span class="[success alert secondary] [round radius] label"><i class="fa fa-key"></i>Password required</span></li>
-      </ul>
 -->
+      </ul>
+</ul>
     </div>
   </dd>
 
@@ -88,7 +101,7 @@ as the programing language. The idea is also to familiarize the student with wha
   <dd class="accordion-navigation">
     <a href="#panel4b"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h5>PA4: Muons and Neutrinos</h5></a>
     <div id="panel4b" class="content">
-        <ul>
+        <ul class="no-bullet">
 		  		<li>Muons and neutrinos at sea level and underground</li>
 					<li>Muon interactions</li>
 					<li>Neutrino interactions</li>
@@ -107,7 +120,7 @@ as the programing language. The idea is also to familiarize the student with wha
 
   <!--Exercises 2 -->
   <dd class="accordion-navigation">
-    <a href="#panel2a"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h6>Exercises 2</h6></a>
+    <a href="#panel2a"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h7>Exercises 2</h7></a>
     <div id="panel2a" class="content">
 <!--   
    <ul class="inline-list"> <li><b>Material:</b></li>
@@ -141,7 +154,7 @@ as the programing language. The idea is also to familiarize the student with wha
 
   <!--Exercises 3-->
   <dd class="accordion-navigation">
-    <a href="#panel3a"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h6>Exercises 3</h6></a>
+    <a href="#panel3a"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h7>Exercises 3</h7></a>
     <div id="panel3a" class="content">
 <!--   
    <ul class="inline-list"> <li><b>Material:</b></li>

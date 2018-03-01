@@ -10,8 +10,7 @@ as the programing language. The idea is also to familiarize the student with wha
 
 <h2> Table of Content </h2>
 
-<p>The course nominally includes 14 hours of lecture and 14 hours of exercises.  These hours will be divided (approximately) among 7 lectures, 7 exercise sessions. </p>
-<p>Material of the course can be found below as weill as in my <a href="https://github.com/zemrude/PHYS-F-467">github</a> repo</p>
+<p>The course nominally includes 14 hours of lecture and 14 hours of exercises.  These hours will be divided (approximately) among 7 lectures, 7 exercise sessions. Material of the course can be found below. The notebooks can found found as well as on my <a href="https://github.com/zemrude/PHYS-F-467">github</a></p>
 
 <p>The lectures will are divide by topics:</p>
 
@@ -211,7 +210,7 @@ as the programing language. The idea is also to familiarize the student with wha
 </ol>
 
 <h2 id="grading">Grading</h2>
-<p>45% of the grade will be based on the student project.  The other 45% will derive from the final written exam. The exam will consist on exercises (similar to those seen during the course) and theoretical questions. All material will be allowed during the written exam. The rest of 10% will come from participation and doing the exercises. </p>
+<p>20% of the grade will be based on the student project and presentation. During the presentation there will be also some interrogation about the course theoretical concepts.  The other 70% will derive from the final written exam of exercises similar to those resolved in class.  All material will be allowed during the written exam. The rest of 10% will come from participation and hands on of some of the more complicated exercises done at home. </p>
 
 
 </div>

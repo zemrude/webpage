@@ -74,7 +74,7 @@ as the programing language. The idea is also to familiarize the student with wha
 
   <!-- Cosmic Rays -->
   <dd class="accordion-navigation">
-    <a href="#panel3b"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h5>PA3: Cosmic Rays</h5></a>
+    <a href="#panel3b"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h5>PA3: Cosmic Rays</h5> </h7><span class="alert label">new</span></a></a> 
     <div id="panel3b" class="content">
       <ul>
 	      <li>Cosmic Ray composition</li>
@@ -83,6 +83,14 @@ as the programing language. The idea is also to familiarize the student with wha
 				<li>Cosmic rays above the Knee</li>
 				<li>Air Shower and detection techniques</li>
       </ul>
+      <ul class="no-bullet"> 
+     <li><b>Material:</b></li>
+     <ul class ="no-bullet">
+   <li>Slides [<a href="https://www.dropbox.com/s/oe7v5uihj5fmayy/slides-PA3.pdf?dl=0" target="_blank">PDF</a>]</li>
+     <li>Notes [<a href="https://www.dropbox.com/s/ap9nxj5vsk7s188/PA3.pdf?dl=0" target="_blank">PDF</a>] [<a href="https://github.com/zemrude/PHYS-F-467/blob/master/PA3.ipynb">IPYNB</a>] [<a href="http://nbviewer.jupyter.org/github/zemrude/PHYS-F-467/blob/master/PA3.ipynb">HTML</a>]</li>
+      </ul>
+
+
 <!--   
    <ul class="inline-list">
         <li><b>Material:</b></li>

@@ -17,145 +17,124 @@ as the programing language. The idea is also to familiarize the student with wha
 <dl class="accordion" data-accordion>
   <!--PA1 -->
   <dd class="accordion-navigation">
-    <a href="#panel1b"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h5>PA1: Introduction  </h5><span class="alert label">new</span></a>
-      <div id="panel1b" class="content"> 
-<ul class ="disc">
-<li>Introduction to Cosmic Rays.</li>
-<li>Historical remarks </li>
-</ul>
-        <ul class="no-bullet">
+    <a href="#panel1b"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h5>PA1: Introduction  </h5></a>
+     <div id="panel1b" class="content"> 
+     <ul class ="disc">
+            <li>Introduction to Cosmic Rays.</li>
+            <li>Historical remarks </li>
+     </ul>
+     <ul class="no-bullet">
           <li><b>Material:</b></li>
-<ul class="no-bullet">
-          <li>Slides [<a href="https://www.dropbox.com/s/7v9ijh9xc061jh7/slides-PA1.pdf?dl=0">PDF</a>]</li>
-        </ul>
-</ul>
-      </div>
+          <ul class="no-bullet">
+              <li>Slides [<a href="https://www.dropbox.com/s/7v9ijh9xc061jh7/slides-PA1.pdf?dl=0">PDF</a>]</li>
+          </ul>
+     </ul>
+     </div>
   </dd>
 
   <!--PA2 -->
   <dd class="accordion-navigation">
-    <a href="#panel2b"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h5>PA2: The computation framework  </h5><span class="alert label">new</span></a>
-    <div id="panel2b" class="content">
-      <ul class="disc">
-				<li>Natural units</li>
-				<li>Coordinates and time</li>
-				<li>Special Relativity and relativistic kinematics</li>
-				<li>Cosmology</li>
-    	</ul>
-     
-      <ul class="no-bullet"> 
-     <li><b>Material:</b></li>
-     <ul class ="no-bullet">
-   <li>Slides [<a href="https://www.dropbox.com/s/ar3aevy4szavrgf/slides-PA2.pdf?dl=0" target="_blank">PDF</a>]</li>
-     <li>Notes [<a href="https://www.dropbox.com/s/nx5o9zrx2hm8se0/PA2.pdf?dl=0" target="_blank">PDF</a>] [<a href="https://github.com/zemrude/PHYS-F-467/blob/master/PA2.ipynb">IPYNB</a>] [<a href="http://nbviewer.jupyter.org/github/zemrude/PHYS-F-467/blob/master/PA2.ipynb">HTML</a>]</li>
-      </ul>
-</ul>
-    </div>
+    <a href="#panel2b"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h5>PA2: The computation framework  </h5></a>
+     <div id="panel2b" class="content">
+     <ul class="disc">
+            <li>Natural units</li>
+	    <li>Coordinates and time</li>
+	    <li>Special Relativity and relativistic kinematics</li>
+	    <li>Cosmology</li>
+     </ul>
+     <ul class="no-bullet"> 
+         <li><b>Material:</b></li>
+         <ul class ="no-bullet">
+              <li>Slides [<a href="https://www.dropbox.com/s/ar3aevy4szavrgf/slides-PA2.pdf?dl=0" target="_blank">PDF</a>]</li>
+              <li>Notes [<a href="https://www.dropbox.com/s/nx5o9zrx2hm8se0/PA2.pdf?dl=0" target="_blank">PDF</a>] [<a href="https://github.com/zemrude/PHYS-F-467/blob/master/PA2.ipynb">IPYNB</a>] [<a href="http://nbviewer.jupyter.org/github/zemrude/PHYS-F-467/blob/master/PA2.ipynb">HTML</a>]</li>
+        </ul>
+     </ul>
+     </div>
   </dd>
 
   <!--Exercises 1 -->
   <dd class="accordion-navigation">
-    <a href="#panel1a"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h7>Exercises 1  </h7><span class="alert label">new</span></a>
-    <div id="panel1a" class="content">
-
-      <ul class="no-bullet">   
-     <li><b>Material:</b></li> 
-<ul class="no-bullet">
-<li>Exercises [<a href="https://www.dropbox.com/s/btrvy8sizshyusl/Exercises1.pdf?dl=0" target="_blank">PDF</a>]</li>
-
-<!--
-        <li><a href="PHYS-467/Exercises1_solutions.pdf" target="_blank">Solutions (pdf)</a><span class="[success alert secondary] [round radius] label"><i class="fa fa-key"></i>Password required</span></li>
-        <li><a href="https://www.dropbox.com/s/aqzxr0jfd3z3qf8/Exercises1.ipynb?dl=0" target="_blank">Solutions (iPython notebook)</a><span class="[success alert secondary] [round radius] label"><i class="fa fa-key"></i>Password required</span></li>
--->
-      </ul>
-</ul>
-    </div>
+    <a href="#panel1a"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h7>Exercises 1  </h7></a>
+     <div id="panel1a" class="content">
+     <ul class="no-bullet">   
+           <li><b>Material:</b></li> 
+           <ul class="no-bullet">
+                 <li>Exercises [<a href="https://www.dropbox.com/s/btrvy8sizshyusl/Exercises1.pdf?dl=0" target="_blank">PDF</a>]</li>
+           </ul>
+     </ul>
+     </div>
   </dd>
 
   <!-- Cosmic Rays -->
   <dd class="accordion-navigation">
-    <a href="#panel3b"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h5>PA3: Cosmic Rays</h5> </h7><span class="alert label">new</span></a></a> 
-    <div id="panel3b" class="content">
-      <ul>
+    <a href="#panel3b"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h5>PA3: Cosmic Rays</h5> </h7></a> 
+     <div id="panel3b" class="content">
+      <ul class="disc">
 	      <li>Cosmic Ray composition</li>
 	      <li>Diffusion of CR in the Galaxy</li>
 	      <li>Sources – cosmic ray acceleration mechanisms</li>
-				<li>Cosmic rays above the Knee</li>
-				<li>Air Shower and detection techniques</li>
+	      <li>Cosmic rays above the Knee</li>
+	      <li>The end of the CR spectrum</li>
       </ul>
       <ul class="no-bullet"> 
-     <li><b>Material:</b></li>
-     <ul class ="no-bullet">
-   <li>Slides [<a href="https://www.dropbox.com/s/oe7v5uihj5fmayy/slides-PA3.pdf?dl=0" target="_blank">PDF</a>]</li>
-     <li>Notes [<a href="https://www.dropbox.com/s/ap9nxj5vsk7s188/PA3.pdf?dl=0" target="_blank">PDF</a>] [<a href="https://github.com/zemrude/PHYS-F-467/blob/master/PA3.ipynb">IPYNB</a>] [<a href="http://nbviewer.jupyter.org/github/zemrude/PHYS-F-467/blob/master/PA3.ipynb">HTML</a>]</li>
+             <li><b>Material:</b></li>
+             <ul class ="no-bullet">
+                   <li>Slides [<a href="https://www.dropbox.com/s/oe7v5uihj5fmayy/slides-PA3.pdf?dl=0" target="_blank">PDF</a>]</li>
+                   <li>Notes [<a href="https://www.dropbox.com/s/ap9nxj5vsk7s188/PA3.pdf?dl=0" target="_blank">PDF</a>] [<a href="https://github.com/zemrude/PHYS-F-467/blob/master/PA3.ipynb">IPYNB</a>] [<a href="http://nbviewer.jupyter.org/github/zemrude/PHYS-F-467/blob/master/PA3.ipynb">HTML</a>]</li>
+             </ul>
       </ul>
-
-
-<!--   
-   <ul class="inline-list">
-        <li><b>Material:</b></li>
-        <li><a href="PHYS-467/PA3.slides.html" target="_blank">Slides (html)</a></li>
-        <li><a href="PHYS-467/PA3.html" target="_blank">Notes (html)</a></li>
-        <li><a href="PHYS-467/PA3.pdf" target="_blank">Notes (pdf)</a></li>
-        <li><a href="https://www.dropbox.com/s/04hdac40kq451rv/PA3.ipynb?dl=0">Notes (iPython notebook)</a></li>
-      </ul>
--->
-    </div>
+     </div>
   </dd>
 
 
-  <!-- Muons -->
+  <!-- Atmosphere -->
   <dd class="accordion-navigation">
-    <a href="#panel4b"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h5>PA4: Muons and Neutrinos</h5></a>
+    <a href="#panel4b"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h5>PA4: Cosmic Rays in the Atmosphere </h5><span class="[round radius] alert label">new</span></a>
     <div id="panel4b" class="content">
-        <ul class="no-bullet">
-		  		<li>Muons and neutrinos at sea level and underground</li>
-					<li>Muon interactions</li>
-					<li>Neutrino interactions</li>
-					<li>Neutrino Oscillations</li>
-<!--
-					<ul class="inline-list">
-					  <li><b>Material:</b></li>
-					  <li><a href="PHYS-467/PA4.slides.html" target="_blank">Slides (html)</a></li>
-            <li><a href="PHYS-467/PA4.html" target="_blank">Notes (html)</a></li>
-            <li><a href="PHYS-467/PA4.pdf" target="_blank">Notes (pdf)</a></li>
-            <li><a href="https://www.dropbox.com/s/0d0a6hc4d3uulsd/PA4.ipynb?dl=0">Notes (iPython notebook)</a></li> </ul>
-        	</ul>
--->
+     <ul class="disc">
+       <li>Particle interactions</li>
+       <li>Air showers: EM and Hadronic showers</li>
+       <li>Detections tecniques for extended air showers</li>
+       <li>Muons and neutrinos at sea level and underground</li>
+       <li>Muon interactions</li>
+       <li>Neutrino interactions</li>
+       <li>Neutrino Oscillations</li>
+      </ul>
+      <ul class="no-bullet"> 
+        <li><b>Material:</b></li>
+        <ul class ="no-bullet">
+              <li>Slides [<a href="https://www.dropbox.com/s/g3yk55yl0t9ksxk/slides-PA4.pdf?dl=0" target="_blank">PDF</a>]</li>
+              <li>Notes [<a href="https://www.dropbox.com/s/949uegowzbrkwvh/PA4.pdf?dl=0" target="_blank">PDF</a>] [<a href="https://github.com/zemrude/PHYS-F-467/blob/master/PA4.ipynb">IPYNB</a>] [<a href="http://nbviewer.jupyter.org/github/zemrude/PHYS-F-467/blob/master/PA4.ipynb">HTML</a>]</li>
+        </ul>
+      </ul>
     </div>
   </dd>
 
   <!--Exercises 2 -->
   <dd class="accordion-navigation">
-    <a href="#panel2a"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h7>Exercises 2</h7></a>
+    <a href="#panel2a"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h7>Exercises 2 </h7><span class="alert [round radius] label">new</span></a>
     <div id="panel2a" class="content">
-<!--   
-   <ul class="inline-list"> <li><b>Material:</b></li>
-        <li><a href="PHYS-467/Exercises2.pdf" target="_blank">Exercises (pdf)</a></li>
-        <li><a href="PHYS-467/Exercises2_solutions.pdf" target="_blank">Solutions (pdf)</a><span class="[success alert secondary] [round radius] label"><i class="fa fa-key"></i>Password required</span></li>
-        <li><a href="https://www.dropbox.com/s/lif28o2tgv02hxz/Exercises2.ipynb?dl=0" target="_blank">Solutions (iPython notebook)</a><span class="[success alert secondary] [round radius] label"><i class="fa fa-key"></i>Password required</span></li>
-      </ul>
--->
+    <ul class="no-bullet">
+         <li><b>Material:</b></li> 
+         <ul class="no-bullet">
+              <li>Exercises [<a href="https://www.dropbox.com/s/cjfo1n25o4myf2i/Exercises2.pdf?dl=0" target="_blank">PDF</a>]</li>
+
+         </ul>
+    </ul>
     </div>
   </dd>
-  <!-- Multimessenger -->
-  <dd class="accordion-navigation">
+  
+   <!-- Multimessenger -->
+   <dd class="accordion-navigation">
     <a href="#panel5b"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h5>PA5: Multimessenger Astronomy</h5></a>
     <div id="panel5b" class="content">
-       <ul>
-					<li>Astrophysical sources of Gamma-rays and neutrinos</li>
-					<li>The Cosmic Ray, gamma-ray and neutrino conexion</li>
-					<li>Neutrino astronomy</li>
-					<li>Gamma-ray astronomy</li>
-	  		</ul>
-<!--   
-     <ul class="inline-list"> <li><b>Material:</b></li>
-          <li><a href="PHYS-467/PA5.pdf">Slides (pdf)</a></li>
-          <li><a href="PHYS-467/PA5.html">Notes (html)</a></li>
-          <li><a href="PHYS-467/PA5_notes.pdf">Notes (pdf)</a></li>
-          <li><a href="PHYS-467/PA5.ipynb">Notes (iPython notebook)</a></li>
-        </ul>
--->
+       <ul class="disc">
+		<li>Astrophysical sources of Gamma-rays and neutrinos</li>
+		<li>The Cosmic Ray, gamma-ray and neutrino conexion</li>
+		<li>Neutrino astronomy</li>
+		<li>Gamma-ray astronomy</li>
+                <li>Gravitational waves</li>
+       </ul>
     </div>
   </dd>
 
@@ -163,13 +142,6 @@ as the programing language. The idea is also to familiarize the student with wha
   <dd class="accordion-navigation">
     <a href="#panel3a"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h7>Exercises 3</h7></a>
     <div id="panel3a" class="content">
-<!--   
-   <ul class="inline-list"> <li><b>Material:</b></li>
-        <li><a href="PHYS-467/Exercises3.pdf" target="_blank">Exercises (pdf)</a></li>
-        <li><a href="PHYS-467/Exercises3_solutions.pdf" target="_blank">Solutions (pdf)</a><span class="[success alert secondary] [round radius] label"><i class="fa fa-key"></i>Password required</span></li>
-        <li><a href="https://www.dropbox.com/s/vvkyh8xqw1hhgki/Exercises3.ipynb?dl=0" target="_blank">Solutions (iPython notebook)</a><span class="[success alert secondary] [round radius] label"><i class="fa fa-key"></i>Password required</span></li>
-      </ul>
--->
     </div>
   </dd>
 
@@ -177,22 +149,15 @@ as the programing language. The idea is also to familiarize the student with wha
   <dd class="accordion-navigation">
     <a href="#panel6b"><span><i class="fa fa-plus fa-lg fa-fw"></i><i class="fa fa-minus fa-lg"></i></span><h5>PA6: Dark Matter</h5></a>
     <div id="panel6b" class="content">
-       <ul>
-					<li> Evidences of Dark Matter </li>
-					<li> Candidates of Dark Matter </li>
-					<li> Alternatives to Dark Matter: MOND </li>
-					<li> Direct and indirect searches of Dark Matter </li>
-		  	</ul>
-<!--   
-     <ul class="inline-list"> <li><b>Material:</b></li>
-          <li><a href="PHYS-467/PA6.pdf">Slides (pdf)</a></li>
-        </ul>
--->
+      <ul class="disc">
+		<li> Evidences of Dark Matter </li>
+		<li> Candidates of Dark Matter </li>
+		<li> Alternatives to Dark Matter: MOND </li>
+		<li> Direct and indirect searches of Dark Matter </li>
+      </ul>
     </div>
   </dd>
-
  </dl>
-
 <br>
 
 

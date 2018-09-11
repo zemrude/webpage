@@ -6,7 +6,7 @@
 <h2 id="course-description">Course Description</h2>
 <ul class="vcard">
   <li> Titulaires: <a href="mailto:juaguila@ulb.ac.be">J. A. Aguilar</a>, <a href="mailto:Ioana.Maris@ulb.ac.be">Ioana Maris</a>,</li>
-  <li> Assistants: <a href="mailto:isabelle.ansseau@ulb.ac.be">Isabelle Ansseau</a>, <a href="mailto:Stephane.Clemmen@ulb.ac.be">Stephane Clemmen </a>, <a href="mailto:lmoureau@ulb.ac.be">Louis Moureaux</a>, <a href="mailto:Jerome.Vandecasteele@ulb.ac.be">Jerome Vandecasteele</a></li>
+  <li> Assistants: <a href="mailto:isabelle.ansseau@ulb.ac.be">Isabelle Ansseau</a>, <a href="mailto:Stephane.Clemmen@ulb.ac.be">Stephane Clemmen </a>, <a href="mailto:lmoureau@ulb.ac.be">Louis Moureaux</a>, <a href="mailto:antoine.pasternak@ulb.ac.be">Antoine Pasternak</a></li>
   <li>Techniciens: <a href="mailto:akarusho@ulb.ac.be">Anastase Karusho</a></li>
 </ul>
 
@@ -130,30 +130,5 @@
  </dl>
 
 </div>
-
-<script src="js/vendor/jquery.js"></script>
-<script src="js/foundation.min.js"></script>
-<script type="text/javascript" src="slick/slick.min.js"></script>
-
-<script>
- $(document).foundation();
-</script>
-
-<script>
-  $(".accordion dd").on("click", "a:eq(0)", function (event)
-      {
-        var dd_parent = $(this).parent();
-
-        if(dd_parent.hasClass('active'))
-          $(".accordion dd div.content:visible").slideToggle("normal");
-        else
-        {
-          $(".accordion dd div.content:visible").slideToggle("normal");
-          $(this).parent().find(".content").slideToggle("normal");
-        }
-   });
-</script>
-
-
-
+<br>
 <?php include("footer.html")?>
